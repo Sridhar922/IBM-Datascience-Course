@@ -1,2 +1,2 @@
 # IBM-Datascience-Course
-Capstone project
+Sridhar922/IBM-Data-Science-Professional-Certificate
