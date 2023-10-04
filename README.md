@@ -17,4 +17,5 @@ IBM Datascience  online course Certification includes 10 online courses which he
 
 # Tools
 Python, Jupyter, GitHub, IBM Watson Studio
-![image](https://github.com/Sridhar922/IBM-Datascience-Course/assets/122592164/52e4be7a-d757-4532-a093-088def3d43d9)
+![image](https://github.com/Sridhar922/IBM-Datascience-Course/assets/122592164/263715e0-84a9-440c-8207-ddf989094f44)
+
