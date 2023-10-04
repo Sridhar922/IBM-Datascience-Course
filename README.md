@@ -35,5 +35,5 @@ IBM Datascience  online course Certification includes 10 online courses which he
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/01d81a78236a20ceb9f94beb17fe8c67"><img src="https://github.com/Sridhar922/IBM-Datascience-Course/assets/122592164/d48b868d-8c84-49c5-aaa4-56c0cc9b76d2" height="400"></a>
+  <a href="https://coursera.org/share/01d81a78236a20ceb9f94beb17fe8c67"><img src="https://github.com/Sridhar922/IBM-Datascience-Course/issues/1#issue-1925528977" height="400"></a>
   <a href="https://www.credly.com/badges/a7e354ce-94de-4b99-bdcd-f56b6028d863"><img src="https://user-images.githubusercontent.com/84391594/161432660-f158f03d-c164-43d4-92c6-b728868200e9.png" height="400"></a>
