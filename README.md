@@ -16,6 +16,6 @@ IBM Datascience  online course Certification includes 10 online courses which he
 10. Applied Datascience Capstone
 
 # Tools
-                 Python,      Jupyter,       GitHub,       IBM Watson Studio
+     Python,      Jupyter,       GitHub,       IBM Watson Studio
 ![image](https://github.com/Sridhar922/IBM-Datascience-Course/assets/122592164/263715e0-84a9-440c-8207-ddf989094f44)
 
